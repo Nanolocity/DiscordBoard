@@ -16,6 +16,4 @@ I will release the sourcecode soon for the application(I'll release it after I f
 
 # Plans
 
--Video downloading feature(done)
--Open folder feature after download(done)
--System Tray function so you can close the application without copying a discord url and pushing the logo or without going into task manager(not done)
+-I'm currently working on the System Tray function so you can just close the application by right clicking the system tray and choosing "close" but until that's done I won't publish the Source Code(also I'm optimising it in the meanwhile)
