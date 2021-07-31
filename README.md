@@ -13,3 +13,9 @@ After clicking the button the file will be downloaded to D:\DiscordBoard(if you 
 
 # Source Code
 I will release the sourcecode soon for the application(I'll release it after I finish the application)
+
+# Plans
+
+-Video downloading feature(done)
+-Open folder feature after download(done)
+-System Tray function so you can close the application without copying a discord url and pushing the logo or without going into task manager(not done)
